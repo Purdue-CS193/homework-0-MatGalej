@@ -8,7 +8,7 @@
 - No Midterms or Finals :)
 - I get to make my own github page
 
-- *One question though: Why does this class have to be so late in the day :(*\
+- *One question though: Why does this class have to be so late in the day :(*
 
 
 
