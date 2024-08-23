@@ -7,9 +7,12 @@
 - I got a lot of friends in my class
 - No Midterms or Finals :)
 - I get to make my own github page
-
-- *One question though: Why does this class have to be so late in the day :(*
-
+<br>
+<br>
+<br>
+One question though: Why does this class have to be so late in the day :(
+<br>
+<br>
 
 
 
