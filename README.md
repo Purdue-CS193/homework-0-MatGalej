@@ -75,3 +75,5 @@ Navigate to the settings page for your **Purdue-CS193/homework-0-\<Your Github U
 - I got a lot of friends in my class
 - No Midterms or Finals :)
 - I get to make my own github page
+
+- *One question though: Why does this class have to be so late in the day :(*
