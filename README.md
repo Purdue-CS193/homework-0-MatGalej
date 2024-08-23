@@ -68,3 +68,10 @@ Navigate to the settings page for your **Purdue-CS193/homework-0-\<Your Github U
 | List is ‘bulleted’                            | 1      |
 | Successfully committed homework               | 2      |
 | Total                                         | 10     |
+
+# Matthew's First CS193 Assignment
+## My favorite things about CS 193
+- The TA's are super chill
+- I got a lot of friends in my class
+- No Midterms or Finals :)
+- I get to make my own github page
